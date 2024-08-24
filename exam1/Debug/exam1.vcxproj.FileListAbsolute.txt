@@ -1,1 +1,2 @@
 C:\c++\exam1\Debug\exam1.exe
+C:\Algorithm\exam1\Debug\exam1.exe
