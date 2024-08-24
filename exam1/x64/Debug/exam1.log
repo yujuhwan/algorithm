@@ -1,2 +1,3 @@
-﻿  ex2.c
+﻿  ex3.c
+C:\Algorithm\exam1\ex3.c(7,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
   exam1.vcxproj -> C:\Algorithm\exam1\x64\Debug\exam1.exe
